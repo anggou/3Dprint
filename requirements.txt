@@ -1,0 +1,5 @@
+streamlit
+pymcdm
+pandas
+numpy
+openpyxl
