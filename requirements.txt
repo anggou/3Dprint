@@ -1,5 +1,6 @@
 streamlit
+scikit-learn
 pymcdm
+openpyxl
 pandas
 numpy
-openpyxl
